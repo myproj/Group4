@@ -4,6 +4,7 @@ int factorial(int n){
 	if(n<0)
 {
 cout<<"Enter a positive No";
+cout<<"akv";
 return -1;
 }
     if(n!=1)
